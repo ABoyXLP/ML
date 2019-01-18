@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # Perceptron Model
 
 ------------------
@@ -12,6 +10,8 @@
 - 感知机模型（perceptron model）是判别式模型 <http://www.github.com/>
 
 ---------------------------------------------------------------------------------
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 ## Conception
 
